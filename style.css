@@ -1,0 +1,70 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 50px;
+    line-height: 50px;
+}
+.box{
+    height:200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input[type="text"]{
+    width: 500px;
+    height: 30px;
+    padding: 5px;
+    font-size: 28px;
+    border-radius: 5px;
+    outline: none;
+    border: 2px solid black;
+}
+input[type="submit"]{
+    margin-left: 5px;
+    width: 80px;
+    height: 40px;
+    padding: 5px;
+    font-size: 28px;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: orangered;
+}
+.taskes{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.task{
+    font-size: 28px;
+    width: 500px;
+    height: 30px;
+    border:2px solid black;
+    padding: 5px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+.complete,.remove{
+    height: 40px;
+    width:40px;
+    padding: 5px;
+    font-size: 28px;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 5px;
+}
+.complete{
+    background-color: green;
+}
+.remove{
+    background-color: red;
+}
+.taskBox {
+    display: flex;
+}
