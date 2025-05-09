@@ -4,7 +4,7 @@ A simple and clean To-Do List application built using **HTML**, **CSS**, and **J
 
 ## 🔗 Live Demo
 
-👉 [View the Live Site](https://your-username.github.io/To-Do-List-App/)
+👉 [View the Live Site](https://mindhiramsai.github.io/To-Do-List/)
 
 > Replace the URL above with your GitHub Pages link after enabling GitHub Pages.
 
@@ -26,6 +26,4 @@ A simple and clean To-Do List application built using **HTML**, **CSS**, and **J
 - **HTML5** – Structure of the app
 - **CSS3** – Styling and layout
 - **JavaScript** – Core logic and interactivity
-
-## 📁 Folder Structure
 
