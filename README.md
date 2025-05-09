@@ -6,8 +6,6 @@ A simple and clean To-Do List application built using **HTML**, **CSS**, and **J
 
 👉 [View the Live Site](https://mindhiramsai.github.io/To-Do-List/)
 
-> Replace the URL above with your GitHub Pages link after enabling GitHub Pages.
-
 ## 📸 Screenshot
 
 ![Screenshot 2025-05-09 195500](https://github.com/user-attachments/assets/0e265e5b-5975-427e-b9cf-22fa387b32b4)
