@@ -1,7 +1,7 @@
 let add = document.querySelector("input[type='submit']")
 let div1 = document.querySelector(".taskes")
 
-
+ 
 add.addEventListener('click', function (e) {
     e.preventDefault()
     let list = document.querySelector("input[type='text']")
